@@ -11,7 +11,6 @@ This is a **placeholder** _document_.
   - Layout
 
 
-
 ## Content List:
 - Header
   - logo
