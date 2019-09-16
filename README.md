@@ -45,7 +45,7 @@ This is a **placeholder** _document_.
 - Footer
   - Copyright
   - Quick Links
-    - social media
-    - email 
+    - Social Media
+    - About Us 
 
 
