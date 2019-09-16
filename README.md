@@ -2,6 +2,16 @@
 
 This is a **placeholder** _document_.
 
+## Inspirations:
+- [Example Link](https://www.georgebrown.ca/programs/interaction-design-program-g113/#overviewContent) 
+  - Site Layout
+  - Menu Categorization
+- [Example Link](http://thesum.ca/) 
+  - Design
+  - Layout
+
+
+
 ## Content List:
 - Header
   - logo
