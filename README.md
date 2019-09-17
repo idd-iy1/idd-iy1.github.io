@@ -19,7 +19,7 @@ This is a **placeholder** _document_.
 
 - Program Information
   - Course Overview/Introduction
-  - Courses
+  - Course List
   - Resources
   - Skills
 
@@ -29,7 +29,7 @@ This is a **placeholder** _document_.
   - Payment Options
 
 - Careers
-  - Jobs 
+  - Post Graduate Oppourtunites 
   - Student/Alumni Testimonies 
 
 - Admission
