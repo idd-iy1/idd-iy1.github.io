@@ -40,3 +40,12 @@ h2 {
 p {
     margin: 1em 0;
 }
+footer {
+    font-weight: 400; 
+}
+.topbar {
+    display: inline;
+}
+.main-menu Li {
+    display: inline;
+}
