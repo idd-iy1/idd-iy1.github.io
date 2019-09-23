@@ -46,6 +46,6 @@ This is a **placeholder** _document_.
   - Copyright
   - Quick Links
     - Social Media
-    - About Us 
+    - Author Information 
 
 
