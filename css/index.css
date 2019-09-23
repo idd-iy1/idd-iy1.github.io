@@ -1,10 +1,42 @@
+html {
+    /*** Background Colours ***/
+    --primary-light: white;
+    --primary-dark: black;
+    --secondary-a: lightblue;
+    --secondary-b: lightgreen;
+    --background: lightgreen;
+    --error: red;
+
+    /*** Foreground Colours ***/
+    --on-primary: white;
+    --on-secondary: #000000;
+    --on-background: #222222;
+    --on-error: #ffffff;
+
+    /*** Font Sets ***/
+    --font-body: helvetica, arial, sans-serif;
+    --font-impact: georgia, sans-serif;
+}
 body {
-    background-color: lightseagreen;
+    background-color: var(--background);
+    color: var(--on-background);
+
     font-weight: normal;
     font-style: normal;
     font-size: 1rem;
     font-family: helvetica, arial, sans-serif;
 }
+h1, h2 {
+    font-family: var(--font-impact);
+}
 h1 {
-    border-bottom: 0.125rem solid black;
+    background-color: blue;
+    font-size: 2rem;
+}
+h2 {
+    background-color: orange;
+    font-size: 1.5rem;
+}
+p {
+    margin: 1em 0;
 }
