@@ -19,7 +19,7 @@ This is a **placeholder** _document_.
 
 - Program Information
   - Course Overview/Introduction
-  - Course List
+  - List of Classes
   - Resources
   - Skills
 
