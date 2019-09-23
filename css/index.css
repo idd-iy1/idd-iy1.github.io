@@ -3,8 +3,8 @@ html {
     --primary-light: white;
     --primary-dark: black;
     --secondary-a: lightblue;
-    --secondary-b: lightgreen;
-    --background: lightgreen;
+    --secondary-b: lightgray;
+    --background: lightgray;
     --error: red;
 
     /*** Foreground Colours ***/
