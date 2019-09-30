@@ -21,31 +21,80 @@ body {
     background-color: var(--background);
     color: var(--on-background);
 
+    text-align: center;
     font-weight: normal;
     font-style: normal;
     font-size: 1rem;
     font-family: helvetica, arial, sans-serif;
+    line-height: 1em;
+    width: auto;
+    margin: 1em;
 }
-h1, h2 {
-    font-family: var(--font-impact);
+.header {
+    text-align: center;
+    padding: 1em;
+    display: inline;
 }
+
 h1 {
-    background-color: blue;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1.5em;
     font-size: 2rem;
 }
 h2 {
-    background-color: orange;
     font-size: 1.5rem;
+    text-align: center;
+    background-color: gray;
+    padding: 1em;
 }
 p {
     margin: 1em 0;
+    font-size: 1rem;
 }
-footer {
-    font-weight: 400; 
+li {
+    font-size: 1rem;
+    text-align: left;
 }
+
 .topbar {
-    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 .main-menu Li {
     display: inline;
+    color: white;
+    text-align: center;
+    padding: 1em .8em; 
+    text-decoration: none;
+}
+.landing {
+    max-width: 100%;
+    margin: 0 auto; 
+    height: auto; 
+    padding: 1em;
+}
+div.gallery {
+    margin: 1.5em;
+    border: .5em solid #333;
+    width: auto;
+    padding: 2em;
+    display: inline-block;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    text-align: center;
+    padding: .5em;
+    font-size: 1.5rem; 
+}
+footer {
+    font-weight: 700;
+     padding: 1em;
 }
