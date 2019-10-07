@@ -74,12 +74,7 @@ li {
     padding: 1em .8em; 
     text-decoration: none;
 }
-.landing {
-    width: 100%;
-    margin: auto auto; 
-    height: auto; 
-    padding: 0.5em;
-}
+
 div.gallery {
     margin: 1.5em;
     border: .5em solid #333;
@@ -109,5 +104,11 @@ footer {
         padding: 2em;
         display: inline-block;
         
+    }
+    .landing {
+        width: 100%;
+        margin: auto auto; 
+        height: auto; 
+        padding: 0.5em;
     }
 }
