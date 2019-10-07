@@ -39,6 +39,7 @@ h1 {
     font-size: 1.5rem;
     margin: .5em;
 }
+
 h2 {
     font-size: 1.5rem;
     text-align: center;
@@ -67,6 +68,7 @@ li {
     background-color: #333;
     display: inline-block;
 }
+
 .main-menu Li {
     display: inline;
     color: white;
@@ -74,6 +76,7 @@ li {
     padding: 1em .8em; 
     text-decoration: none;
 }
+
 
 div.gallery {
     margin: 1.5em;
