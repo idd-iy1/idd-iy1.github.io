@@ -77,7 +77,6 @@ li {
     text-decoration: none;
 }
 
-
 div.gallery {
     margin: 1.5em;
     border: .5em solid #333;
@@ -101,11 +100,8 @@ footer {
 }
 @media screen and (min-width: 850px) {
     div.gallery {
-        margin: 0 auto;
-        border: .5em solid #333;
-        max-width: auto;
-        padding: 2em;
-        display: inline-block;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         
     }
     .landing {
