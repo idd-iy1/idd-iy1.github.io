@@ -86,7 +86,7 @@ div.gallery {
     max-width: auto;
     padding: 2em;
     display: inline-block;
-
+    
 }
 div.gallery img {
     width: auto;
@@ -100,4 +100,14 @@ div.desc {
 footer {
     font-weight: 700;
      padding: 1em;
+}
+@media screen and (min-width: 850px) {
+    div.gallery {
+        margin: 0 auto;
+        border: .5em solid #333;
+        max-width: auto;
+        padding: 2em;
+        display: inline-block;
+        
+    }
 }
